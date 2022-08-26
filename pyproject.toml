@@ -2,7 +2,7 @@
 name = "ArmaCell"
 version = "0.1.0"
 description = ""
-authors = ["Your Name <you@example.com>"]
+authors = ["Philipp Schiele philipp.schiele@stat.uni-muenchen.de>"]
 
 [tool.poetry.dependencies]
 python = "^3.7"
