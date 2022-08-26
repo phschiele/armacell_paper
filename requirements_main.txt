@@ -1,0 +1,9 @@
+tensorflow
+statsmodels
+numpy
+pmdarima
+keras-tuner
+seaborn
+fire
+scikit-learn
+matplotlib
